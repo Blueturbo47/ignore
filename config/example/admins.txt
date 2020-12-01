@@ -4,6 +4,7 @@
 # Case IS important for the rank. However punctuation/spaces are not #
 # Ranks can be anything defined in admin_ranks.txt           ~Carn   #
 ######################################################################
+<<<<<<< HEAD
 
 # not_a_user - Admin
 <<<<<<< HEAD
@@ -13,3 +14,7 @@ cinderashblack - Host
 cinderashblack - Host		+EVERYTHING
 blueturbo47 - Host		+EVERYTHING
 >>>>>>> 9222ad900436129491a194f3e9c517a64dc01cd7
+=======
+cinderashblack - Host
+blueturbo47 - Host
+>>>>>>> 2893424b4a0c33288f7494cd64d9854ab16991aa

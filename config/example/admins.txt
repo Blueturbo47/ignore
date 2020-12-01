@@ -6,5 +6,10 @@
 ######################################################################
 
 # not_a_user - Admin
+<<<<<<< HEAD
 blueturbo47 - Host
 cinderashblack - Host
+=======
+cinderashblack - Host		+EVERYTHING
+blueturbo47 - Host		+EVERYTHING
+>>>>>>> 9222ad900436129491a194f3e9c517a64dc01cd7
